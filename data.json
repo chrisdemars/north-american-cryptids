@@ -1,0 +1,37 @@
+[
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Bigfoot.jpg/220px-Bigfoot.jpg",
+    "name": "Bigfoot",
+    "description": "Bigfoot is a large, hairy, ape-like creature that is said to inhabit the forests of North America. It is also known as Sasquatch.",
+    "firstSeen": "1920s",
+    "location": "Pacific Northwest"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Chupacabra.jpg/220px-Chupacabra.jpg",
+    "name": "Chupacabra",
+    "description": "The Chupacabra is a creature that is said to attack and drink the blood of livestock, especially goats. It is often described as a reptilian creature with spikes along its back.",
+    "firstSeen": "1990s",
+    "location": "Puerto Rico"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Mothman_statue.jpg/220px-Mothman_statue.jpg",
+    "name": "Mothman",
+    "description": "The Mothman is a creature that is said to resemble a large, winged humanoid with glowing red eyes. It is often associated with disaster and tragedy.",
+    "firstSeen": "1960s",
+    "location": "West Virginia"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jersey_Devil.jpg/220px-Jersey_Devil.jpg",
+    "name": "Jersey Devil",
+    "description": "The Jersey Devil is a creature that is said to resemble a kangaroo-like creature with bat wings, horns, and a forked tail. It is often associated with the Pine Barrens of New Jersey.",
+    "firstSeen": "1735",
+    "location": "New Jersey"
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Wendigo.jpg/220px-Wendigo.jpg",
+    "name": "Wendigo",
+    "description": "The Wendigo is a creature from Algonquian folklore that is said to be a malevolent spirit that possesses humans and drives them to cannibalism. It is often associated with the forests of the Great Lakes region.",
+    "firstSeen": "Unknown",
+    "location": "Great Lakes Region"
+  }
+]
