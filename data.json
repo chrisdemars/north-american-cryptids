@@ -33,5 +33,12 @@
     "description": "The Wendigo is a creature from Algonquian folklore that is said to be a malevolent spirit that possesses humans and drives them to cannibalism. It is often associated with the forests of the Great Lakes region.",
     "firstSeen": "Unknown",
     "location": "Great Lakes Region"
-  }
+  },
+    {
+    "image": "",
+    "name": "Honey Island Swamp Monster",
+    "description": "Bipedal animal that leaves pointed three-toed footprints.",
+    "firstSeen": "",
+    "location": "Pacific Northwest"
+  },
 ]
